@@ -6,3 +6,6 @@ def dodaj():
 	print(a+b)
 print("the end!!!!!")
 print("paaaa")
+
+def get_help():
+	print('podaj liczby dwie')
